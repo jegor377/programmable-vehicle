@@ -1,0 +1,6 @@
+[submodule "mini-car"]
+	path = mini-car
+	url = https://github.com/jegor377/mini-car.git
+[submodule "mini-car-brain"]
+	path = mini-car-brain
+	url = https://github.com/jegor377/mini-car-brain
