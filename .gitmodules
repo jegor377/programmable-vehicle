@@ -7,3 +7,6 @@
 [submodule "programmable-vehicle-chasis"]
 	path = programmable-vehicle-chasis
 	url = https://github.com/jegor377/programmable-vehicle-chasis
+[submodule "carControl"]
+	path = carControl
+	url = https://github.com/Lewissimo/carControl.git

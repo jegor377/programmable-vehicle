@@ -20,3 +20,4 @@ The system allows for free control mode and preprogrammed path execution mode. C
 - `mini-car` - The vehicle electronics PCB design.
 - `mini-car-brain` - The vehicle controll system written for ESP32.
 - `programmable-vehicle-chasis` - The vehicle CAD design files.
+- `carControl` - The remote control app made by my friend.
